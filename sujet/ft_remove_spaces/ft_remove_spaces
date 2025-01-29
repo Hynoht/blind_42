@@ -1,0 +1,6 @@
+Assignment name  : ft_remove_spaces
+Expected files   : ft_remove_spaces.c
+Allowed functions: none
+--------------------------------------------------------------------------------
+
+Supprime tous les espaces d'une chaîne de caractères.

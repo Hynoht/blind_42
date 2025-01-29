@@ -1,0 +1,6 @@
+Assignment name  : ft_is_digit
+Expected files   : ft_is_digit.c
+Allowed functions: none
+--------------------------------------------------------------------------------
+
+Vérifie si la chaîne de caractères ne contient que des chiffres. Retourne 1 si c'est vrai, sinon 0.

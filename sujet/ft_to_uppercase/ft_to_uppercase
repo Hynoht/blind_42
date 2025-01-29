@@ -1,0 +1,6 @@
+Assignment name  : ft_to_uppercase
+Expected files   : ft_to_uppercase.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Convertit tous les caractères d'une chaîne de caractères en majuscules.
