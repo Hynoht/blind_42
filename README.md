@@ -1,4 +1,4 @@
-#⚡ Tournoi "Coder à l'Aveugle" - Organisé par le BDE ⚡
+# ⚡ Tournoi "Coder à l'Aveugle" - Organisé par le BDE ⚡
 
 Bienvenue sur le dépôt GitHub du tournoi Coder à l'Aveugle, un challenge unique où la communication et la logique sont les clés du succès !
 
