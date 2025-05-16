@@ -1,6 +1,0 @@
-Assignment name  : ft_count_occurrences
-Expected files   : ft_count_occurrences.c
-Allowed functions: none
---------------------------------------------------------------------------------
-
-Compte combien de fois un caractère spécifique c apparaît dans la chaîne str.

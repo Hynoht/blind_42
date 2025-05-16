@@ -1,6 +1,0 @@
-Assignment name  : ft_str_len
-Expected files   : ft_str_len.c
-Allowed functions: none
---------------------------------------------------------------------------------
-
-Retourne la longueur d'une chaîne de caractères, sans utiliser la fonction standard strlen.

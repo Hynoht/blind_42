@@ -1,0 +1,27 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex03.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: bde <bde.42antananarivo@gmail.com>         +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/05/15 12:12:41 by bde               #+#    #+#              #
+#    Updated: 2025/05/15 12:12:42 by bde              ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+## Exercice 03 : Vérification de parenthèses équilibrées
+
+Turn-in directory : ex03/
+Files to turn in : is_balanced.c
+
+**Énoncé :**
+Écris une fonction qui vérifie si une chaîne de caractères composée uniquement de parenthèses `( et )` est équilibrée.
+
+**Consignes :**
+- Prototype : `int is_balanced(const char *str);`
+- Retourne 1 si équilibrée, 0 sinon.
+
+**Exemple :**
+Input : "(()())" → Output : 1
+Input : "(()" → Output : 0

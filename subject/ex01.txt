@@ -1,0 +1,28 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex01.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: bde <bde.42antananarivo@gmail.com>         +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/05/15 12:10:23 by bde               #+#    #+#              #
+#    Updated: 2025/05/15 12:10:24 by bde              ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+## Exercice 01 : Afficher les nombres jusqu'à 50 en ignorant certains nombres
+
+Turn-in directory : ex01/
+Files to turn in : print_numbers.c
+
+**Énoncé :**
+Écris une fonction en C qui affiche les nombres de 1 à 50, mais ignore les nombres qui sont divisibles par 6 et 3.
+
+**Consignes :**
+- Prototype attendu : `void print_numbers();`
+- Utiliser une boucle pour parcourir les nombres de 1 à 50.
+- Utiliser une condition pour vérifier la divisibilité.
+- Le resultat doit se terminer par une "\n"
+
+**Exemple :**
+Output : `1, 2, 4, 5, 7, 8, 10, ...`

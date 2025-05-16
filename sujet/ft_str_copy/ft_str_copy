@@ -1,6 +1,0 @@
-Assignment name  : ft_str_copy
-Expected files   : ft_str_copy.c
-Allowed functions: none
---------------------------------------------------------------------------------
-
-Copie une chaîne de caractères src dans une autre chaîne dest, sans utiliser strcpy.

@@ -1,0 +1,30 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex02.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: bde <bde.42antananarivo@gmail.com>         +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/05/15 12:12:38 by bde               #+#    #+#              #
+#    Updated: 2025/05/15 12:12:39 by bde              ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+## Exercice 02 : Changer la lettre du milieu en majuscule
+
+Turn-in directory : ex02/
+Files to turn in : uppercase_middle_letter.c
+
+**Énoncé :**
+Écris une fonction en C qui prend en paramètre un mot et change la lettre du milieu en majuscule. Si le nombre de lettres du mot est pair, la fonction ne fait rien.
+
+**Consignes :**
+- Prototype attendu : `void uppercase_middle_letter(char *str);`
+- Vérifier si la longueur du mot est impaire avant de changer la lettre du milieu.
+
+**Exemple :**
+Input : `mot = "pythons"`
+Output : `pytHons`
+
+Input : `mot = "java"`
+Output : `java`

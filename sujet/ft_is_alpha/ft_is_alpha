@@ -1,6 +1,0 @@
-Assignment name  : ft_is_alpha
-Expected files   : ft_is_alpha.c
-Allowed functions: none
---------------------------------------------------------------------------------
-
-Vérifie si une chaîne ne contient que des lettres alphabétiques (sans chiffres ni symboles). Retourne 1 si c'est le cas, sinon 0.

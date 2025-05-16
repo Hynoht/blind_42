@@ -1,6 +1,0 @@
-Assignment name  : ft_count_vowels
-Expected files   : ft_count_vowels.c
-Allowed functions: none
---------------------------------------------------------------------------------
-
-Compte le nombre de voyelles (a, e, i, o, u) dans une chaîne de caractères.

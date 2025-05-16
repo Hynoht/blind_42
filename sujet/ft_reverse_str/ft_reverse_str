@@ -1,7 +1,0 @@
-Assignment name  : ft_reverse_str
-Expected files   : ft_reverse_str.c
-Allowed functions: write
---------------------------------------------------------------------------------
-
-Inverse une chaîne de caractères passée en argument.
-

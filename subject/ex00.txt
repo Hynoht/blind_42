@@ -1,0 +1,28 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex00.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: bde <bde.42antananarivo@gmail.com>         +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/05/15 12:02:39 by bde               #+#    #+#              #
+#    Updated: 2025/05/15 12:10:32 by bde              ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+## Exercice 00 : Compter le nombre de syllabes d'un mot
+
+Turn-in directory : ex00/
+Files to turn in : count_syllabes.c
+
+**Énoncé :**
+Écris une fonction en C qui prend en paramètre un mot et retourne le nombre de syllabes de ce mot.
+
+**Consignes :**
+- Prototype attendu : `int count_syllables(char *str);`
+- Considérer que les syllabes sont séparées par des voyelles (a, e, i, o, u, y).
+- Ne pas utiliser de bibliothèques spécifiques.
+
+**Exemple :**
+Input : `mot = "bonjour"`
+Output : `2`

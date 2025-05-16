@@ -1,0 +1,37 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex04.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: bde <bde.42antananarivo@gmail.com>         +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/05/15 12:12:44 by bde               #+#    #+#              #
+#    Updated: 2025/05/15 12:12:45 by bde              ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+## Exercice 04 : Calculatrice simple
+
+Turn-in directory : ex04/
+Files to turn in : main.c
+
+**Énoncé :**
+Écris un programme en C qui fonctionne comme une calculatrice simple en utilisant les arguments de la ligne de commande. Le programme doit être capable de réaliser les opérations suivantes : addition, soustraction, multiplication et division.
+
+**Consignes :**
+- Le programme doit accepter trois arguments : deux nombres et un opérateur (+, -, *, /).
+- Afficher le résultat de l'opération.
+- Gérer les erreurs potentielles, comme la division par zéro.
+- Le resultat doit se terminer par une "\n"
+
+**Exemple :**
+Input :
+```
+./calculatrice 10 '*' 5
+```
+Output : `50`
+Input :
+```
+./calculatrice 10 / 0
+```
+Output : `Error : Division by zero.`

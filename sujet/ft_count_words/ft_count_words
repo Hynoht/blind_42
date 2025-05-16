@@ -1,6 +1,0 @@
-Assignment name  : ft_count_words
-Expected files   : ft_count_words.c
-Allowed functions: none
---------------------------------------------------------------------------------
-
-Compte le nombre de mots dans une chaîne de caractères. Les mots sont délimités par des espaces.
